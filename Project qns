@@ -1,0 +1,30 @@
+H1-B Case Study
+
+The H1B is an employment-based, non-immigrant visa category for temporary foreign workers in the United States. For a foreign national to apply for H1B visa, an US employer must offer a job and petition for H1B visa with the US immigration department. This is the most common visa status applied for and held by international students once they complete college/ higher education (Masters, Ph.D.) and work in a full-time position.
+
+We will be performing analysis on the H1B visa applicants between the years 2011-2016. After analyzing the data, we can derive the following facts.
+
+1 a) Is the number of petitions with Data Engineer job title increasing over time? [MapReduce]
+   b) Find top 5 job titles who are having highest avg growth in applications.[ALL] [Pig] 
+
+2 a) Which part of the US has the most Data Engineer jobs for each year? [Mapreduce]
+   b) find top 5 locations in the US who have got certified visa for each year.[certified] [Hive]
+
+3)Which industry(SOC_NAME) has the most number of Data Scientist positions?
+[certified] [Pig] 
+
+4)Which top 5 employers file the most petitions each year? - Case Status – ALL [MapReduce]
+
+5) Find the most popular top 10 job positions for H1B visa applications for each year? [Hive]
+a) for all the applications
+b) for only certified applications.
+
+6) Find the percentage and the count of each case status on total applications for each year. Create a line graph depicting the pattern of All the cases over the period of time. [Pig] 
+
+7) Create a bar graph to depict the number of applications for each year [All] [Mpareduce]
+
+8) Find the average Prevailing Wage for each Job for each Year (take part time and full time separate). Arrange the output in descending order - [Certified and Certified Withdrawn.] Hive 
+
+9) Which are the employers along with the number of petitions who have the success rate more than 70%  in petitions. (total petitions filed 1000 OR more than 1000) ? [Pig]
+
+10) Which are the  job positions along with the number of petitions which have the success rate more than 70%  in petitions (total petitions filed 1000 OR more than 1000)? [Pig]
